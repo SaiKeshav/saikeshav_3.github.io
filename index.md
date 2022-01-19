@@ -3,7 +3,7 @@ layout: page
 name: index
 title: Personal Website
 description: >
-  Personal Website of Abir Saha, a PhD student in the Technology and Social Behavior program at Northwestern University.
+  Personal Website of Keshav Kolluru, a PhD student working in Natural Language Processing (NLP) at IIT Delhi.
 hide_description: true
 ---
 <!-- <script type="text/javascript">
@@ -25,31 +25,28 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
 
-Hi! I'm Abir. I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication Studies program at Northwestern University. I work in the Inclusive Technology Lab with [Prof. Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"}.  
+Hi! I'm Keshav. I am a PhD student in [Computer Science Department](http://cse.iitd.ac.in/){:target="_blank"}, at Indian Institute of Technology, Delhi. I work in the area of Natural Language Processing with a special focus on the intersection of Information Extraction and Multilinguality. I am fortunate to be jointly advised by [Prof. Mausam](https://www.cse.iitd.ac.in/~mausam/){:target="_blank"} and [Prof. Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen/){:taget="_blank"}.  
 
-Previously, I completed my Master of Science in Electrical and Computer Engineering (ECE) at Indiana University-Purdue University Indianapolis (IUPUI) and obtained my Bachelor degree (B.Sc.) in Electrical and Electronic Engineering (EEE) at Bangladesh University of Engineering and Technology (BUET).  
+Previously, I completed my Bachelors degree in Computer Science at Indian Institute of Technology, Bhubaneswar and had the opportunity to intern at various places including Google Research, IBM Research and Microsoft Bing.  
 
 My research interests include Human-Computer Interaction, Accessibility and Assistive Technology. In my research, I study and design tools to support computer-based creative work for people with disabilities. Through interviews, observations, and content analysis, my work contributes new understanding of how accessibility unfolds at different stages of computer-based content creation – from learning the tools to developing professional expertise – and the central role communities of disabled creators play in sustaining access in their skilled work. Drawing on these insights, I design and evaluate tools to scaffold accessible learning opportunities for disabled content creators.  
 
-I love traveling and photography. Through my camera and lens, I capture the juxtaposition of nature, architecture, and humans as I travel through places and time. 
-
-<!-- You can find me on [Instagram](http://instagram.com/abirsaha_){:target="_blank"}. -->
+I love cooking and playing volleyball. 
 
 <div class="body-social sidebar-social">
   <ul>
-    <li> <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=40lh_7kAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" title="Google Scholar" class="no-mark-external" target="_blank"> <span class="icon-googlescholar"></span> <span aria-hidden="true">Google Scholar </span><span class="sr-only">Abir Saha's Google Scholar page</span></a></li>
-    <li> <a href="https://twitter.com/abirsaha_" title="Twitter" class="no-mark-external" target="_blank"> <span class="icon-twitter"></span> <span aria-hidden="true">Twitter </span><span class="sr-only">Abir Saha's Twitter profile</span></a></li>
-    <li> <a href="https://www.linkedin.com/in/abirsaha-" title="LinkedIn" class="no-mark-external" target="_blank"> <span class="icon-linkedin2"></span> <span aria-hidden="true">LinkedIn </span><span class="sr-only">Abir Saha's LinkedIn profile</span></a></li>
-    <li> <a href="https://instagram.com/abiroutdoors" title="Instagram" class="no-mark-external" target="_blank"> <span class="icon-instagram"></span> <span aria-hidden="true">Instagram </span><span class="sr-only">Abir Saha's Instagram profile</span></a></li>
+    <li> <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=b3IB4DMAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" title="Google Scholar" class="no-mark-external" target="_blank"> <span class="icon-googlescholar"></span> <span aria-hidden="true">Google Scholar </span><span class="sr-only">Keshav Kolluru's Google Scholar page</span></a></li>
+    <li> <a href="https://twitter.com/keshavkolluru" title="Twitter" class="no-mark-external" target="_blank"> <span class="icon-twitter"></span> <span aria-hidden="true">Twitter </span><span class="sr-only">Keshav Kolluru's Twitter profile</span></a></li>
+    <li> <a href="https://www.linkedin.com/in/keshav-kolluru-988869104" title="LinkedIn" class="no-mark-external" target="_blank"> <span class="icon-linkedin2"></span> <span aria-hidden="true">LinkedIn </span><span class="sr-only">Keshav Kolluru's LinkedIn profile</span></a></li>
   </ul>
 </div>
 
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="research">Research </h2>
 
-<h3 class="h2">Current Projects</h3>
-**ACCESSIBILITY IN AUDIO PRODUCTION FOR PEOPLE WITH VISION IMPAIRMENTS**  
-*Advisors: [Anne Marie Piper](https://www.ics.uci.edu/~ampiper/){:target="_blank"} and [Darren Gergle](https://dgergle.soc.northwestern.edu/){:target="_blank"}*
+<h3 class="h2">Publications</h3>
+**OpenIE-6: **  
+*Advisors: [Mausam](https://www.ics.uci.edu/~ampiper/){:target="_blank"} and [Soumen Chakrabarti](https://dgergle.soc.northwestern.edu/){:target="_blank"}*
 
 In this project, I use interviews, observations, and content analysis to understand how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I design accessible tools to support accessible learning in audio production tools for blind audio producers.
 
